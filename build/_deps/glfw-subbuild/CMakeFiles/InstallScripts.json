@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/dev/window_with_more_things/build/_deps/glfw-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
