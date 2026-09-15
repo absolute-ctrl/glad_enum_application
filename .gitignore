@@ -1,0 +1,22 @@
+# Editor
+.vscode/
+
+# Build output
+build/
+out/
+bin/
+cmake-build-*/
+CMakeFiles/
+CMakeFiles.txt
+
+# Compiled binaries/objects
+*.o
+*.obj
+*.exe
+*.lib
+*.dll
+*.so
+*.a
+
+# OS junk
+.DS_Store
